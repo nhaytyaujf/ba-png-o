@@ -1,8 +1,8 @@
 # ASICLAB Wokwi project information 
 project:
-  wokwi_id:     0       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        ""      # Project title
-  author:       ""      # Your name
+  wokwi_id:     427818850578449409       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  title:        "Bapngo"      # Project title
+  author:       "Nhatngo"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Moach cons"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
